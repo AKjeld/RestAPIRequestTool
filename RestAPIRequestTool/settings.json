@@ -1,0 +1,14 @@
+{
+  "url": "",
+  "Jwt": "",
+  "method": 1,
+  "resource": "",
+  "requests": [
+    {
+      "queryParams": [],
+      "urlSegments": [],
+      "body": {}
+    }
+  ]
+
+}
